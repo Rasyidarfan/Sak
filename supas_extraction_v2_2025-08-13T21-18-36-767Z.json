@@ -1,0 +1,445 @@
+{
+  "extraction_summary": {
+    "total_records": 43,
+    "successful_extractions": 0,
+    "failed_extractions": 43,
+    "success_rate": "0.00%",
+    "total_duration_seconds": 1153.185,
+    "average_time_per_record": "26.82s",
+    "total_art_processed": 0,
+    "extraction_completed_at": "2025-08-13T21:18:36.765Z",
+    "extraction_method": "multi_page_with_art_details_fixed_v2"
+  },
+  "records": [
+    {
+      "id": "36b22d40-cce8-4c87-b597-afb89f3fe549",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/36b22d40-cce8-4c87-b597-afb89f3fe549/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 1,
+      "extraction_timestamp": "2025-08-13T21:03:05.535Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "8aa327aa-e071-447b-b592-d64dedbea34f",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/8aa327aa-e071-447b-b592-d64dedbea34f/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 2,
+      "extraction_timestamp": "2025-08-13T21:03:27.092Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "9500d783-7261-4fe8-810c-e8ece4f2e01c",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/9500d783-7261-4fe8-810c-e8ece4f2e01c/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 3,
+      "extraction_timestamp": "2025-08-13T21:03:48.675Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "717f3d09-40c4-4029-8c4c-263c1cabb99d",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/717f3d09-40c4-4029-8c4c-263c1cabb99d/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 4,
+      "extraction_timestamp": "2025-08-13T21:04:10.362Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "64c553b8-5739-4c0b-b48d-eb38466164ab",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/64c553b8-5739-4c0b-b48d-eb38466164ab/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 5,
+      "extraction_timestamp": "2025-08-13T21:04:32.040Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "319649a5-8faf-4cca-a32c-926b5787177f",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/319649a5-8faf-4cca-a32c-926b5787177f/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 6,
+      "extraction_timestamp": "2025-08-13T21:04:53.714Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "d047a293-6625-413f-8021-5bad2a28c1e7",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/d047a293-6625-413f-8021-5bad2a28c1e7/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 7,
+      "extraction_timestamp": "2025-08-13T21:05:15.411Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "5ee36021-96f3-40c9-9690-1c8e97548892",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/5ee36021-96f3-40c9-9690-1c8e97548892/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 8,
+      "extraction_timestamp": "2025-08-13T21:05:37.100Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "40da0952-9f37-470e-b77a-46ab70f54b84",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/40da0952-9f37-470e-b77a-46ab70f54b84/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 9,
+      "extraction_timestamp": "2025-08-13T21:05:58.770Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "ac77f13d-17fe-4404-b08f-b90a39d6d46a",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/ac77f13d-17fe-4404-b08f-b90a39d6d46a/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 10,
+      "extraction_timestamp": "2025-08-13T21:06:20.482Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "16c6ca52-afeb-4cb4-ba51-d39f600d40fe",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/16c6ca52-afeb-4cb4-ba51-d39f600d40fe/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 11,
+      "extraction_timestamp": "2025-08-13T21:06:42.225Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "f970fdde-eead-475e-858e-75246ea57a0a",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/f970fdde-eead-475e-858e-75246ea57a0a/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 12,
+      "extraction_timestamp": "2025-08-13T21:07:03.884Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "ee145782-baec-41c9-b8cc-9f75f0ec2257",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/ee145782-baec-41c9-b8cc-9f75f0ec2257/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 13,
+      "extraction_timestamp": "2025-08-13T21:07:25.605Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "e6f4da77-a404-4a99-b1b8-c9b6237afab8",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/e6f4da77-a404-4a99-b1b8-c9b6237afab8/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 14,
+      "extraction_timestamp": "2025-08-13T21:07:47.325Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "df922a25-bb38-4a8e-ba78-0d89dc14824f",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/df922a25-bb38-4a8e-ba78-0d89dc14824f/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 15,
+      "extraction_timestamp": "2025-08-13T21:08:09.552Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "c7e1457f-502d-4be3-890e-eef1a70137a6",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/c7e1457f-502d-4be3-890e-eef1a70137a6/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 16,
+      "extraction_timestamp": "2025-08-13T21:08:31.257Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "c7ca779d-7081-4c36-ae25-09a17f927603",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/c7ca779d-7081-4c36-ae25-09a17f927603/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 17,
+      "extraction_timestamp": "2025-08-13T21:08:52.947Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "bf6639c4-ba83-4b5b-9380-9883233c93fa",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/bf6639c4-ba83-4b5b-9380-9883233c93fa/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 18,
+      "extraction_timestamp": "2025-08-13T21:09:14.608Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "b76ae548-0121-4639-b49c-cc4181179342",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/b76ae548-0121-4639-b49c-cc4181179342/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 19,
+      "extraction_timestamp": "2025-08-13T21:09:36.288Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "9b379a1c-a170-42eb-825e-638996504a73",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/9b379a1c-a170-42eb-825e-638996504a73/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 20,
+      "extraction_timestamp": "2025-08-13T21:09:57.955Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "9a4c5ae5-eaf2-4829-bd64-82febf8f9168",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/9a4c5ae5-eaf2-4829-bd64-82febf8f9168/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 21,
+      "extraction_timestamp": "2025-08-13T21:10:19.617Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "837dd95b-71f8-4085-bfa0-918769bd779f",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/837dd95b-71f8-4085-bfa0-918769bd779f/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 22,
+      "extraction_timestamp": "2025-08-13T21:10:41.264Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "811dd90c-fd05-4f0f-99f8-519ff8b47d08",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/811dd90c-fd05-4f0f-99f8-519ff8b47d08/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 23,
+      "extraction_timestamp": "2025-08-13T21:11:02.949Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "69563248-b852-4556-a74e-d45abf1ba8e6",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/69563248-b852-4556-a74e-d45abf1ba8e6/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 24,
+      "extraction_timestamp": "2025-08-13T21:11:24.642Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "5e77d706-c734-4207-8ddf-9271d4478b28",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/5e77d706-c734-4207-8ddf-9271d4478b28/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 25,
+      "extraction_timestamp": "2025-08-13T21:11:46.308Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "5949510e-026d-46b1-8a92-0afe04efe042",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/5949510e-026d-46b1-8a92-0afe04efe042/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 26,
+      "extraction_timestamp": "2025-08-13T21:12:07.984Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "48bd8279-4053-4db9-bfec-52d286cfe170",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/48bd8279-4053-4db9-bfec-52d286cfe170/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 27,
+      "extraction_timestamp": "2025-08-13T21:12:29.661Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "313d8fd3-10bb-49c0-a0dd-9d564edbd89d",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/313d8fd3-10bb-49c0-a0dd-9d564edbd89d/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 28,
+      "extraction_timestamp": "2025-08-13T21:12:51.301Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "30350506-635e-49bc-9eff-2644a8ad4bbd",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/30350506-635e-49bc-9eff-2644a8ad4bbd/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 29,
+      "extraction_timestamp": "2025-08-13T21:13:12.931Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "2a131712-b4e5-429c-bcc6-a83cc175703e",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/2a131712-b4e5-429c-bcc6-a83cc175703e/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 30,
+      "extraction_timestamp": "2025-08-13T21:13:34.575Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "2839da30-3081-4694-943b-c5e04f90d0ac",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/2839da30-3081-4694-943b-c5e04f90d0ac/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 31,
+      "extraction_timestamp": "2025-08-13T21:13:56.210Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "02d7cd8b-f12b-44d6-a712-10cf85e9f688",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/02d7cd8b-f12b-44d6-a712-10cf85e9f688/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 32,
+      "extraction_timestamp": "2025-08-13T21:14:17.887Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "eca9b17f-e481-49a3-b350-8095a63fb59d",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/eca9b17f-e481-49a3-b350-8095a63fb59d/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 33,
+      "extraction_timestamp": "2025-08-13T21:14:39.498Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "b0650c4a-a877-4b74-864b-abc2eac834ff",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/b0650c4a-a877-4b74-864b-abc2eac834ff/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 34,
+      "extraction_timestamp": "2025-08-13T21:15:01.150Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "7cdddbed-b84b-4f01-8fe3-3e4a1841445a",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/7cdddbed-b84b-4f01-8fe3-3e4a1841445a/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 35,
+      "extraction_timestamp": "2025-08-13T21:15:22.803Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "7acae4d6-df70-44bd-93b5-a06a87d1551e",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/7acae4d6-df70-44bd-93b5-a06a87d1551e/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 36,
+      "extraction_timestamp": "2025-08-13T21:15:44.491Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "7888c005-e8fb-4d2f-9698-80b092346bbb",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/7888c005-e8fb-4d2f-9698-80b092346bbb/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 37,
+      "extraction_timestamp": "2025-08-13T21:16:06.143Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "3b0efa95-6bdc-4b10-ac54-a683683f6854",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/3b0efa95-6bdc-4b10-ac54-a683683f6854/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 38,
+      "extraction_timestamp": "2025-08-13T21:16:27.783Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "3a335fec-b5b0-488c-9f7a-c4fada401b37",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/3a335fec-b5b0-488c-9f7a-c4fada401b37/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 39,
+      "extraction_timestamp": "2025-08-13T21:16:49.451Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "9d263333-164b-4a2d-9615-d506b6e3db88",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/9d263333-164b-4a2d-9615-d506b6e3db88/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 40,
+      "extraction_timestamp": "2025-08-13T21:17:11.100Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "9a8acf14-e1e0-4d56-9b44-e12e43144e86",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/9a8acf14-e1e0-4d56-9b44-e12e43144e86/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 41,
+      "extraction_timestamp": "2025-08-13T21:17:32.768Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "99e854d6-0417-489a-aff4-42d67d515f33",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/99e854d6-0417-489a-aff4-42d67d515f33/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 42,
+      "extraction_timestamp": "2025-08-13T21:17:54.424Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "c30a7897-518b-4398-9e74-65dd3bea66d9",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/c30a7897-518b-4398-9e74-65dd3bea66d9/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 43,
+      "extraction_timestamp": "2025-08-13T21:18:16.090Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    }
+  ]
+}
