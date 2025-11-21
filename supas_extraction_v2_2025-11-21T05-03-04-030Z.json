@@ -1,0 +1,4106 @@
+{
+  "extraction_summary": {
+    "total_records": 39,
+    "successful_extractions": 38,
+    "failed_extractions": 1,
+    "success_rate": "97.44%",
+    "total_duration_seconds": 2718.222,
+    "average_time_per_record": "69.70s",
+    "total_art_processed": 106,
+    "extraction_completed_at": "2025-11-21T05:03:04.030Z",
+    "extraction_method": "multi_page_with_art_details_fixed_v2"
+  },
+  "records": [
+    {
+      "id": "a176d0b6-9f7a-4394-b8dd-77d89ce605d5",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/a176d0b6-9f7a-4394-b8dd-77d89ce605d5/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 1,
+      "extraction_timestamp": "2025-11-21T04:19:54.346Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T18:38:00",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "91",
+          "nama_kepala_keluarga": "SAMAI TABUNI / MIRANA KOMBA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "91",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "4"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / SAMAI TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / MIRANA KOMBA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / FIRA F TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999995 / WERTEFIA T TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / SAMAI TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "SAMAI TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "03",
+              "bulan_lahir": "11 - November",
+              "tahun_lahir": "1987"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / MIRANA KOMBA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "MIRANA KOMBA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "15",
+              "bulan_lahir": "09 - September",
+              "tahun_lahir": "1990"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / FIRA F TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "FIRA F TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "2013"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / WERTEFIA T TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "WERTEFIA T TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "16",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "2017"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "42b9a385-555e-4dd0-8761-fdbe63133b6c",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/42b9a385-555e-4dd0-8761-fdbe63133b6c/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 2,
+      "extraction_timestamp": "2025-11-21T04:21:11.451Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T17:54:20",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "75",
+          "nama_kepala_keluarga": "MARTINUS TABUNI / SILPA KOLAGO",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "75",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "3"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / MARTINUS TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / SILPA KOLAGO / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / GEBY TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / MARTINUS TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "MARTINUS TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "04 - April",
+              "tahun_lahir": "1993"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / SILPA KOLAGO / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "SILPA KOLAGO",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "06",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "1994"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / GEBY TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "GEBY TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "12",
+              "bulan_lahir": "02 - Februari",
+              "tahun_lahir": "2012"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "814125d2-49e7-43ee-9050-8833f06bdd1b",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/814125d2-49e7-43ee-9050-8833f06bdd1b/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 3,
+      "extraction_timestamp": "2025-11-21T04:22:20.042Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-13T21:42:35",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "30",
+          "nama_kepala_keluarga": "ABAI WENDA / LEPINA TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "30",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "4"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / ABAI WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / LEPINA TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / ARPINUS WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999995 / MEPEN WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / ABAI WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "ABAI WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "29",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "1993"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / LEPINA TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "LEPINA TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "05 - Mei",
+              "tahun_lahir": "1993"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / ARPINUS WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "ARPINUS WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "2017"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / MEPEN WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "MEPEN WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "20",
+              "bulan_lahir": "02 - Februari",
+              "tahun_lahir": "2022"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "126f3b23-fe28-447e-b612-296a8fa41265",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/126f3b23-fe28-447e-b612-296a8fa41265/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 4,
+      "extraction_timestamp": "2025-11-21T04:23:36.737Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T18:39:46",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "92",
+          "nama_kepala_keluarga": "GELES TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "92",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "1"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / GELES TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / GELES TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "GELES TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "26",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "1962"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "35190356-84df-4db3-99ed-cced2ada81be",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/35190356-84df-4db3-99ed-cced2ada81be/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 5,
+      "extraction_timestamp": "2025-11-21T04:24:28.354Z",
+      "status": "failed",
+      "data": {},
+      "errors": [],
+      "error_message": "page.waitForSelector: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#fasih-form') to be visible\u001b[22m\n"
+    },
+    {
+      "id": "edcdd7fd-678e-42fb-8053-8cb147880a3e",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/edcdd7fd-678e-42fb-8053-8cb147880a3e/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 6,
+      "extraction_timestamp": "2025-11-21T04:25:24.157Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T10:41:11",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "36",
+          "nama_kepala_keluarga": "NIKOLAS TABUNI / LEMINA WENDA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "36",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "3"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / NIKOLAS TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / LEMINA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / PILIA TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / NIKOLAS TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "NIKOLAS TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "10",
+              "bulan_lahir": "02 - Februari",
+              "tahun_lahir": "1993"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / LEMINA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "LEMINA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "15",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "1994"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / PILIA TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "PILIA TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "19",
+              "bulan_lahir": "08 - Agustus",
+              "tahun_lahir": "2017"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "22001b13-321e-43b0-b078-005c7f017fb0",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/22001b13-321e-43b0-b078-005c7f017fb0/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 7,
+      "extraction_timestamp": "2025-11-21T04:26:33.162Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-13T19:25:24",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "11",
+          "nama_kepala_keluarga": "KION TABUNI / JORLIN TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "11",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / KION TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999993 / JORLIN TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / KION TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "KION TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "08",
+              "bulan_lahir": "09 - September",
+              "tahun_lahir": "1982"
+            }
+          },
+          {
+            "art_info": "9999999999999993 / JORLIN TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999993",
+              "nama_anggota_keluarga": "JORLIN TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "10",
+              "bulan_lahir": "05 - Mei",
+              "tahun_lahir": "2012"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "abecabdf-b49f-4081-ae36-7e015bc950ab",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/abecabdf-b49f-4081-ae36-7e015bc950ab/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 8,
+      "extraction_timestamp": "2025-11-21T04:27:33.030Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T15:35:22",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "70",
+          "nama_kepala_keluarga": "MARTEN TABUNI / TABOTOGON YIKWA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "70",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "5"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / MARTEN TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / TABOTOGON YIKWA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / TILYON TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999995 / KONIUS TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            },
+            {
+              "urut": 5,
+              "art_index": 5,
+              "info": "9999999999999995 / KOTIUS TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(5) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / MARTEN TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "MARTEN TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "20",
+              "bulan_lahir": "03 - Maret",
+              "tahun_lahir": "1973"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / TABOTOGON YIKWA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "TABOTOGON YIKWA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "19",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "1982"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / TILYON TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "TILYON TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "15",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "2005"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / KONIUS TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "KONIUS TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "17",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "2007"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / KOTIUS TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 5,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "5",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "KOTIUS TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "20",
+              "bulan_lahir": "02 - Februari",
+              "tahun_lahir": "2020"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "b86a9816-740d-4a8b-987d-e6736001fe88",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/b86a9816-740d-4a8b-987d-e6736001fe88/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 9,
+      "extraction_timestamp": "2025-11-21T04:28:57.721Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-13T20:41:30",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "22",
+          "nama_kepala_keluarga": "PESEN YIKWA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "22",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "1"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / PESEN YIKWA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / PESEN YIKWA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "PESEN YIKWA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "1962"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "8f09727f-2e9d-4ac5-bde2-bb40254efabe",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/8f09727f-2e9d-4ac5-bde2-bb40254efabe/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 10,
+      "extraction_timestamp": "2025-11-21T04:29:49.484Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T10:34:53",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "35",
+          "nama_kepala_keluarga": "KANIPAGALUK TABUNI / ENENGOLIKWE WENDA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "35",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / KANIPAGALUK TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / ENENGOLIKWE WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / KANIPAGALUK TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "KANIPAGALUK TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "19",
+              "bulan_lahir": "07 - Juli",
+              "tahun_lahir": "1997"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / ENENGOLIKWE WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "ENENGOLIKWE WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "07",
+              "bulan_lahir": "09 - September",
+              "tahun_lahir": "1998"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "ea1f4681-fb79-4c35-b9a4-d07825977557",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/ea1f4681-fb79-4c35-b9a4-d07825977557/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 11,
+      "extraction_timestamp": "2025-11-21T04:30:49.593Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T11:59:00",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "46",
+          "nama_kepala_keluarga": "YANDRI KOGOYA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "46",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "1"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / YANDRI KOGOYA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / YANDRI KOGOYA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "YANDRI KOGOYA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "2000"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "3f183e8a-e150-48bc-bdc0-6a1f38198f08",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/3f183e8a-e150-48bc-bdc0-6a1f38198f08/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 12,
+      "extraction_timestamp": "2025-11-21T04:31:43.039Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T14:02:12",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "56",
+          "nama_kepala_keluarga": "DINUS TABUNI / PITADINA YIKWA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "56",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "4"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / DINUS TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / PITADINA YIKWA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / DARMIN TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999995 / PERLINA TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / DINUS TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "DINUS TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "22",
+              "bulan_lahir": "05 - Mei",
+              "tahun_lahir": "1975"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / PITADINA YIKWA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "PITADINA YIKWA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "19",
+              "bulan_lahir": "05 - Mei",
+              "tahun_lahir": "1975"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / DARMIN TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "DARMIN TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "07",
+              "bulan_lahir": "09 - September",
+              "tahun_lahir": "2007"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / PERLINA TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "PERLINA TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "19",
+              "bulan_lahir": "10 - Oktober",
+              "tahun_lahir": "2009"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "146b9974-2af3-4cae-b1b8-621d3f5301f7",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/146b9974-2af3-4cae-b1b8-621d3f5301f7/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 13,
+      "extraction_timestamp": "2025-11-21T04:32:59.548Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T18:25:58",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[003] ALGONIK",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN ALGONIK",
+          "nks": "00500"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "92",
+          "nomor_urut_keluarga": "87",
+          "nama_kepala_keluarga": "KETIUS TABUNI / KENCINA TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "92",
+          "nomor_urut_bangunan": "87",
+          "alamat_tempat_tinggal": "ALGONIK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / KETIUS TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999995 / KENCINA TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / KETIUS TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "KETIUS TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "02 - Februari",
+              "tahun_lahir": "1982"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / KENCINA TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "KENCINA TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "15",
+              "bulan_lahir": "09 - September",
+              "tahun_lahir": "2012"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "705577e9-256f-4892-b1d3-1733c2e4a362",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/705577e9-256f-4892-b1d3-1733c2e4a362/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 14,
+      "extraction_timestamp": "2025-11-21T04:33:59.782Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T20:29:13",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "21",
+          "nama_kepala_keluarga": "MESIANA GINIA / HEFRAIN WENDA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "21",
+          "alamat_tempat_tinggal": "DUSUN YILUK",
+          "nomor_kartu_keluarga": "9999999999999991",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999994 / MESIANA GINIA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / HEFRAIN WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999994 / MESIANA GINIA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999994",
+              "nama_anggota_keluarga": "MESIANA GINIA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "12",
+              "bulan_lahir": "12 - Desember",
+              "tahun_lahir": "1990"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / HEFRAIN WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "HEFRAIN WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "10 - Oktober",
+              "tahun_lahir": "2010"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "6e844775-cd38-4530-90cd-ca136f1a39b0",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/6e844775-cd38-4530-90cd-ca136f1a39b0/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 15,
+      "extraction_timestamp": "2025-11-21T04:34:59.676Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T10:06:43",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "42",
+          "nama_kepala_keluarga": "ATHA TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "42",
+          "alamat_tempat_tinggal": "DUSUN YILUK",
+          "nomor_kartu_keluarga": "9999999999999995",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999997 / ATHA TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            }
+          ],
+          "art_tambahan": [
+            {
+              "urut": 1,
+              "art_index": 2,
+              "info": "9999999999999998 / MIRA TABUNI",
+              "selector": "#nested_ak_baru > div > div:nth-child(1) > div > button"
+            }
+          ]
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999997 / ATHA TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999997",
+              "nama_anggota_keluarga": "ATHA TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "20",
+              "bulan_lahir": "07 - Juli",
+              "tahun_lahir": "1971"
+            }
+          },
+          {
+            "art_info": "9999999999999998 / MIRA TABUNI",
+            "art_type": "tambahan",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999998",
+              "nama_anggota_keluarga": "MIRA TABUNI ",
+              "keberadaan": "2 - 2 – Anggota keluarga baru",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "05",
+              "bulan_lahir": "08 - Agustus",
+              "tahun_lahir": "1994"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "b1115ff7-fe96-48af-b070-3a2771fab6d8",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/b1115ff7-fe96-48af-b070-3a2771fab6d8/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 16,
+      "extraction_timestamp": "2025-11-21T04:36:00.455Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T11:29:02",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "46",
+          "nama_kepala_keluarga": "LIRU WENDA / UDEL WENDA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "46",
+          "alamat_tempat_tinggal": "DUSUN YILUK",
+          "nomor_kartu_keluarga": "9999999999999991",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999992 / LIRU WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999994 / UDEL WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999992 / LIRU WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999992",
+              "nama_anggota_keluarga": "LIRU WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "24",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "1990"
+            }
+          },
+          {
+            "art_info": "9999999999999994 / UDEL WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999994",
+              "nama_anggota_keluarga": "UDEL WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "10",
+              "bulan_lahir": "12 - Desember",
+              "tahun_lahir": "2008"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "409e2086-f97b-413a-9bf5-a616e95c24e7",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/409e2086-f97b-413a-9bf5-a616e95c24e7/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 17,
+      "extraction_timestamp": "2025-11-21T04:37:00.240Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T09:43:02",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "35",
+          "nama_kepala_keluarga": "ORAEL WENDA / MINA TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "35",
+          "alamat_tempat_tinggal": "DUSUN YILUK",
+          "nomor_kartu_keluarga": "9999999999999991",
+          "jumlah_anggota_keluarga": "5"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999991 / ORAEL WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999992 / MINA TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999993 / EPELINA TABNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999994 / SALOMINA WANDI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            },
+            {
+              "urut": 5,
+              "art_index": 5,
+              "info": "9999999999999995 / OBET WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(5) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999991 / ORAEL WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999991",
+              "nama_anggota_keluarga": "ORAEL WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "28",
+              "bulan_lahir": "08 - Agustus",
+              "tahun_lahir": "1967"
+            }
+          },
+          {
+            "art_info": "9999999999999992 / MINA TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999992",
+              "nama_anggota_keluarga": "MINA TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "17",
+              "bulan_lahir": "09 - September",
+              "tahun_lahir": "1971"
+            }
+          },
+          {
+            "art_info": "9999999999999993 / EPELINA TABNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999993",
+              "nama_anggota_keluarga": "EPELINA TABNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "11 - 11- Lainnya",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "24",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "1974"
+            }
+          },
+          {
+            "art_info": "9999999999999994 / SALOMINA WANDI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999994",
+              "nama_anggota_keluarga": "SALOMINA WANDI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "24",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "2009"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / OBET WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 5,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "5",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "OBET WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "20",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "2011"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "d4944d1c-434d-43f0-b6ca-4e75746fb279",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/d4944d1c-434d-43f0-b6ca-4e75746fb279/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 18,
+      "extraction_timestamp": "2025-11-21T04:38:25.242Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T17:40:14",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "",
+          "nama_kepala_keluarga": "",
+          "keberadaan_keluarga": "4 - 4 - Keluarga baru",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "53",
+          "alamat_tempat_tinggal": "Dusun yiluk kampung yonggime ",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [],
+          "art_tambahan": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / MIKEL TABUNI",
+              "selector": "#nested_ak_baru > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / DENCE WENDA",
+              "selector": "#nested_ak_baru > div > div:nth-child(2) > div > button"
+            }
+          ]
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / MIKEL TABUNI",
+            "art_type": "tambahan",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "MIKEL TABUNI ",
+              "keberadaan": "2 - 2 – Anggota keluarga baru",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "08",
+              "bulan_lahir": "07 - Juli",
+              "tahun_lahir": "1987"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / DENCE WENDA",
+            "art_type": "tambahan",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "DENCE WENDA",
+              "keberadaan": "2 - 2 – Anggota keluarga baru",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "05",
+              "bulan_lahir": "07 - Juli",
+              "tahun_lahir": "1991"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "54afe358-65cf-4c14-a3cd-2e0f4fc89a18",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/54afe358-65cf-4c14-a3cd-2e0f4fc89a18/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 19,
+      "extraction_timestamp": "2025-11-21T04:39:25.478Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T21:54:43",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "25",
+          "nama_kepala_keluarga": "AMOS WENDA / KODOGON UAGA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "25",
+          "alamat_tempat_tinggal": "DUSUN YILUK",
+          "nomor_kartu_keluarga": "9999999999999991",
+          "jumlah_anggota_keluarga": "3"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999994 / AMOS WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / KODOGON UAGA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999997 / EBESINA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999994 / AMOS WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999994",
+              "nama_anggota_keluarga": "AMOS WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "13",
+              "bulan_lahir": "07 - Juli",
+              "tahun_lahir": "1987"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / KODOGON UAGA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "KODOGON UAGA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "14",
+              "bulan_lahir": "09 - September",
+              "tahun_lahir": "1988"
+            }
+          },
+          {
+            "art_info": "9999999999999997 / EBESINA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999997",
+              "nama_anggota_keluarga": "EBESINA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "11",
+              "bulan_lahir": "07 - Juli",
+              "tahun_lahir": "2010"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "c39e40c7-6b03-4ccc-9cc2-4945bab24f27",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/c39e40c7-6b03-4ccc-9cc2-4945bab24f27/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 20,
+      "extraction_timestamp": "2025-11-21T04:40:33.709Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T17:20:41",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "",
+          "nama_kepala_keluarga": "",
+          "keberadaan_keluarga": "4 - 4 - Keluarga baru",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "50",
+          "alamat_tempat_tinggal": "Dusun  yiluk desa yonggime ",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [],
+          "art_tambahan": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / GOMA WENDA",
+              "selector": "#nested_ak_baru > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / PERINA WANIMBO",
+              "selector": "#nested_ak_baru > div > div:nth-child(2) > div > button"
+            }
+          ]
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / GOMA WENDA",
+            "art_type": "tambahan",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "GOMA WENDA",
+              "keberadaan": "2 - 2 – Anggota keluarga baru",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "05",
+              "bulan_lahir": "09 - September",
+              "tahun_lahir": "1988"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / PERINA WANIMBO",
+            "art_type": "tambahan",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "PERINA WANIMBO ",
+              "keberadaan": "2 - 2 – Anggota keluarga baru",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "10",
+              "bulan_lahir": "04 - April",
+              "tahun_lahir": "1991"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "66acdae1-d18b-49f4-b873-3477a7a45c56",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/66acdae1-d18b-49f4-b873-3477a7a45c56/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 21,
+      "extraction_timestamp": "2025-11-21T04:41:33.718Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T09:20:27",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "32",
+          "nama_kepala_keluarga": "ELIAS WENDA / TEMINCE TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "32",
+          "alamat_tempat_tinggal": "DUSUN YILUK",
+          "nomor_kartu_keluarga": "9999999999999990",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999993 / ELIAS WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999995 / TEMINCE TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999993 / ELIAS WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999993",
+              "nama_anggota_keluarga": "ELIAS WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "1983"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / TEMINCE TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "TEMINCE TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "12",
+              "bulan_lahir": "09 - September",
+              "tahun_lahir": "1985"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "53877de1-43f7-4c2f-b373-3b212a8ec447",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/53877de1-43f7-4c2f-b373-3b212a8ec447/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 22,
+      "extraction_timestamp": "2025-11-21T04:42:33.453Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T11:30:53",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "47",
+          "nama_kepala_keluarga": "ELIAS TABUNI / ORSINA WENDA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "47",
+          "alamat_tempat_tinggal": "DUSUN YILUK",
+          "nomor_kartu_keluarga": "9999999999999991",
+          "jumlah_anggota_keluarga": "5"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999992 / ELIAS TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999993 / ORSINA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999994 / AMAN TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999995 / NAKASON TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            },
+            {
+              "urut": 5,
+              "art_index": 5,
+              "info": "9999999999999996 / DELVIN TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(5) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999992 / ELIAS TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999992",
+              "nama_anggota_keluarga": "ELIAS TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "28",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "1990"
+            }
+          },
+          {
+            "art_info": "9999999999999993 / ORSINA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999993",
+              "nama_anggota_keluarga": "ORSINA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "10 - Oktober",
+              "tahun_lahir": "1991"
+            }
+          },
+          {
+            "art_info": "9999999999999994 / AMAN TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999994",
+              "nama_anggota_keluarga": "AMAN TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "18",
+              "bulan_lahir": "12 - Desember",
+              "tahun_lahir": "2005"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / NAKASON TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "NAKASON TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "01",
+              "bulan_lahir": "04 - April",
+              "tahun_lahir": "2007"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / DELVIN TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 5,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "5",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "DELVIN TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "09 - September",
+              "tahun_lahir": "2009"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "a8019458-69ac-4b92-af71-b4dea66abcae",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/a8019458-69ac-4b92-af71-b4dea66abcae/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 23,
+      "extraction_timestamp": "2025-11-21T04:43:58.298Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T20:24:29",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "19",
+          "nama_kepala_keluarga": "YOSEP WENDA / YOSIANA TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "19",
+          "alamat_tempat_tinggal": "DUSUN YILUK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "5"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999991 / YOSEP WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999993 / YOSIANA TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999994 / EFRAIM WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999998 / MIRA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            },
+            {
+              "urut": 5,
+              "art_index": 5,
+              "info": "9999999999999996 / GIHON WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(5) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999991 / YOSEP WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999991",
+              "nama_anggota_keluarga": "YOSEP WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "23",
+              "bulan_lahir": "07 - Juli",
+              "tahun_lahir": "1990"
+            }
+          },
+          {
+            "art_info": "9999999999999993 / YOSIANA TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999993",
+              "nama_anggota_keluarga": "YOSIANA TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "12",
+              "bulan_lahir": "12 - Desember",
+              "tahun_lahir": "1991"
+            }
+          },
+          {
+            "art_info": "9999999999999994 / EFRAIM WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999994",
+              "nama_anggota_keluarga": "EFRAIM WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "2009"
+            }
+          },
+          {
+            "art_info": "9999999999999998 / MIRA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999998",
+              "nama_anggota_keluarga": "MIRA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "01",
+              "bulan_lahir": "12 - Desember",
+              "tahun_lahir": "2011"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / GIHON WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 5,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "5",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "GIHON WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "24",
+              "bulan_lahir": "11 - November",
+              "tahun_lahir": "2014"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "1a771fea-9587-4eba-8bba-0e33025652b3",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/1a771fea-9587-4eba-8bba-0e33025652b3/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 24,
+      "extraction_timestamp": "2025-11-21T04:45:23.476Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T18:57:36",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "1",
+          "nama_kepala_keluarga": "TITUS WENDA / LEKWE TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "1",
+          "alamat_tempat_tinggal": "DESA YILUK",
+          "nomor_kartu_keluarga": "9999999999999991",
+          "jumlah_anggota_keluarga": "3"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999992 / TITUS WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / LEKWE TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / YONAN WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999992 / TITUS WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999992",
+              "nama_anggota_keluarga": "TITUS WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "22",
+              "bulan_lahir": "10 - Oktober",
+              "tahun_lahir": "1990"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / LEKWE TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "LEKWE TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "18",
+              "bulan_lahir": "05 - Mei",
+              "tahun_lahir": "1992"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / YONAN WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "YONAN WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "12",
+              "bulan_lahir": "07 - Juli",
+              "tahun_lahir": "2020"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "5970b45c-cbd2-402d-a415-b1c51a5eee70",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/5970b45c-cbd2-402d-a415-b1c51a5eee70/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 25,
+      "extraction_timestamp": "2025-11-21T04:46:32.515Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T20:21:31",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "18",
+          "nama_kepala_keluarga": "DAIRON WANIMBO",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "18",
+          "alamat_tempat_tinggal": "DUSUN YILUK",
+          "nomor_kartu_keluarga": "9999999999999993",
+          "jumlah_anggota_keluarga": "1"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / DAIRON WANIMBO / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / DAIRON WANIMBO / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "DAIRON WANIMBO",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "28",
+              "bulan_lahir": "08 - Agustus",
+              "tahun_lahir": "1977"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "f2790620-da88-4ef5-b55a-939fd618dcd2",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/f2790620-da88-4ef5-b55a-939fd618dcd2/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 26,
+      "extraction_timestamp": "2025-11-21T04:47:24.234Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-14T19:20:14",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[002] YONGGIME",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN YILUK",
+          "nks": "00498"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "53",
+          "nomor_urut_keluarga": "4",
+          "nama_kepala_keluarga": "ELIAKIM WENDA / MELINA TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "53",
+          "nomor_urut_bangunan": "4",
+          "alamat_tempat_tinggal": "DUSUN YILUK",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "5"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999991 / ELIAKIM WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999994 / MELINA TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / EPI WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999997 / HERNA JOYCE WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            },
+            {
+              "urut": 5,
+              "art_index": 5,
+              "info": "9999999999999992 / KELIS WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(5) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999991 / ELIAKIM WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999991",
+              "nama_anggota_keluarga": "ELIAKIM WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "26",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "1991"
+            }
+          },
+          {
+            "art_info": "9999999999999994 / MELINA TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999994",
+              "nama_anggota_keluarga": "MELINA TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "18",
+              "bulan_lahir": "07 - Juli",
+              "tahun_lahir": "1992"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / EPI WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "EPI WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "2006"
+            }
+          },
+          {
+            "art_info": "9999999999999997 / HERNA JOYCE WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999997",
+              "nama_anggota_keluarga": "HERNA JOYCE WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "24",
+              "bulan_lahir": "10 - Oktober",
+              "tahun_lahir": "2008"
+            }
+          },
+          {
+            "art_info": "9999999999999992 / KELIS WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 5,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "5",
+              "nik": "9999999999999992",
+              "nama_anggota_keluarga": "KELIS WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "18",
+              "bulan_lahir": "10 - Oktober",
+              "tahun_lahir": "2010"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "ed2c96c8-9055-41f1-84d4-74859fe6d9e7",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/ed2c96c8-9055-41f1-84d4-74859fe6d9e7/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 27,
+      "extraction_timestamp": "2025-11-21T04:48:48.982Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T20:07:46",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "7",
+          "nama_kepala_keluarga": "KENIUS WENDA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "7",
+          "alamat_tempat_tinggal": "PERANERI",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "1"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / KENIUS WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / KENIUS WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "KENIUS WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "17",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "1952"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "54181a30-58de-42a6-b14a-ae6c26b99a8c",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/54181a30-58de-42a6-b14a-ae6c26b99a8c/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 28,
+      "extraction_timestamp": "2025-11-21T04:49:41.007Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T21:50:43",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "37",
+          "nama_kepala_keluarga": "OLEGEAK WENDA / YENINA TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "37",
+          "alamat_tempat_tinggal": "PERANERI",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "5"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / OLEGEAK WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / YENINA TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / MARTEN WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999995 / SINA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            },
+            {
+              "urut": 5,
+              "art_index": 5,
+              "info": "9999999999999995 / YOSIAR WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(5) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / OLEGEAK WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "OLEGEAK WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "18",
+              "bulan_lahir": "11 - November",
+              "tahun_lahir": "1993"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / YENINA TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "YENINA TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "1994"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / MARTEN WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "MARTEN WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "28",
+              "bulan_lahir": "08 - Agustus",
+              "tahun_lahir": "2017"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / SINA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "SINA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "12",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "2019"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / YOSIAR WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 5,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "5",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "YOSIAR WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "01",
+              "bulan_lahir": "08 - Agustus",
+              "tahun_lahir": "2022"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "205731d7-6dc9-4740-8fca-3b4e39f32b23",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/205731d7-6dc9-4740-8fca-3b4e39f32b23/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 29,
+      "extraction_timestamp": "2025-11-21T04:51:05.523Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T22:34:08",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "62",
+          "nama_kepala_keluarga": "YOLI KOMBA / ROTINA TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "62",
+          "alamat_tempat_tinggal": "PERANERI",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "3"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / YOLI KOMBA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / ROTINA TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / SAMUEL KOMBA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / YOLI KOMBA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "YOLI KOMBA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "27",
+              "bulan_lahir": "05 - Mei",
+              "tahun_lahir": "1994"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / ROTINA TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "ROTINA TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "20",
+              "bulan_lahir": "04 - April",
+              "tahun_lahir": "1994"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / SAMUEL KOMBA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "SAMUEL KOMBA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "28",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "2019"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "f0ccaeff-fce2-4ae6-b8a0-bffe29c7e4e7",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/f0ccaeff-fce2-4ae6-b8a0-bffe29c7e4e7/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 30,
+      "extraction_timestamp": "2025-11-21T04:52:13.852Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T22:16:20",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "54",
+          "nama_kepala_keluarga": "AURI WENDA / DOSINA TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "54",
+          "alamat_tempat_tinggal": "PERANERI",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "5"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / AURI WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / DOSINA TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / EFRAD WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999995 / SISILIA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            },
+            {
+              "urut": 5,
+              "art_index": 5,
+              "info": "9999999999999995 / ERNA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(5) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / AURI WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "AURI WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "28",
+              "bulan_lahir": "04 - April",
+              "tahun_lahir": "1995"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / DOSINA TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "DOSINA TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "30",
+              "bulan_lahir": "12 - Desember",
+              "tahun_lahir": "1995"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / EFRAD WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "EFRAD WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "30",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "2013"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / SISILIA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "SISILIA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "27",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "2017"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / ERNA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 5,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "5",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "ERNA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "06",
+              "bulan_lahir": "02 - Februari",
+              "tahun_lahir": "2019"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "c130c40c-ba25-46c2-ba69-5281689b1980",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/c130c40c-ba25-46c2-ba69-5281689b1980/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 31,
+      "extraction_timestamp": "2025-11-21T04:53:38.913Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T21:24:35",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "28",
+          "nama_kepala_keluarga": "KELINUS TABUNI / YODA WENDA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "28",
+          "alamat_tempat_tinggal": "PERANERI",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "3"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / KELINUS TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / YODA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / KENI TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / KELINUS TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "KELINUS TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "13",
+              "bulan_lahir": "07 - Juli",
+              "tahun_lahir": "1991"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / YODA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "YODA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "27",
+              "bulan_lahir": "08 - Agustus",
+              "tahun_lahir": "1992"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / KENI TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "KENI TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "15",
+              "bulan_lahir": "09 - September",
+              "tahun_lahir": "2012"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "67ebe6db-c3db-4562-9032-670299c58b9b",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/67ebe6db-c3db-4562-9032-670299c58b9b/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 32,
+      "extraction_timestamp": "2025-11-21T04:54:47.332Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T20:44:12",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "12",
+          "nama_kepala_keluarga": "DEMI TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "12",
+          "alamat_tempat_tinggal": "PERANERI",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "1"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / DEMI TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / DEMI TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "DEMI TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "26",
+              "bulan_lahir": "02 - Februari",
+              "tahun_lahir": "1996"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "9caf1fa1-2200-4e68-97b0-f06d83eec51a",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/9caf1fa1-2200-4e68-97b0-f06d83eec51a/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 33,
+      "extraction_timestamp": "2025-11-21T04:55:39.036Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T18:41:07",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "5",
+          "nama_kepala_keluarga": "TANIUS WENDA / KIRIS TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "5",
+          "alamat_tempat_tinggal": "Dusun PERANERI kampung perabaga",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / TANIUS WENDA / 3 – Meninggal",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / KIRIS TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / DIRINA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / TANIUS WENDA / 3 – Meninggal",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "TANIUS WENDA",
+              "keberadaan": "3 - 3 – Meninggal",
+              "status_hubungan": "",
+              "jenis_kelamin": "",
+              "tanggal_lahir": "",
+              "bulan_lahir": "",
+              "tahun_lahir": ""
+            }
+          },
+          {
+            "art_info": "9999999999999996 / KIRIS TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "KIRIS TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "24",
+              "bulan_lahir": "11 - November",
+              "tahun_lahir": "1995"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / DIRINA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "DIRINA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "01",
+              "bulan_lahir": "08 - Agustus",
+              "tahun_lahir": "2018"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "2c1bf2f6-f5f0-4cf9-ac3a-096b7ecbd2ce",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/2c1bf2f6-f5f0-4cf9-ac3a-096b7ecbd2ce/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 34,
+      "extraction_timestamp": "2025-11-21T04:56:47.204Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-16T17:40:04",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "",
+          "nama_kepala_keluarga": "",
+          "keberadaan_keluarga": "4 - 4 - Keluarga baru",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "68",
+          "alamat_tempat_tinggal": "Dusun peraneri kampung pyramid ",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [],
+          "art_tambahan": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999998 / HERI TABUNI",
+              "selector": "#nested_ak_baru > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999998 / EPI TABUNI",
+              "selector": "#nested_ak_baru > div > div:nth-child(2) > div > button"
+            }
+          ]
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999998 / HERI TABUNI",
+            "art_type": "tambahan",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999998",
+              "nama_anggota_keluarga": "HERI TABUNI",
+              "keberadaan": "2 - 2 – Anggota keluarga baru",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "03",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "1987"
+            }
+          },
+          {
+            "art_info": "9999999999999998 / EPI TABUNI",
+            "art_type": "tambahan",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999998",
+              "nama_anggota_keluarga": "EPI TABUNI ",
+              "keberadaan": "2 - 2 – Anggota keluarga baru",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "06",
+              "bulan_lahir": "10 - Oktober",
+              "tahun_lahir": "1991"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "97cb7d98-6aec-4113-a882-5a75deae3fd2",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/97cb7d98-6aec-4113-a882-5a75deae3fd2/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 35,
+      "extraction_timestamp": "2025-11-21T04:57:46.851Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T21:27:36",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "30",
+          "nama_kepala_keluarga": "YOEL TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "30",
+          "alamat_tempat_tinggal": "PERANERI",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "1"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / YOEL TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / YOEL TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "YOEL TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "10",
+              "bulan_lahir": "04 - April",
+              "tahun_lahir": "1999"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "221ab3db-8767-41e7-8428-81efbb576bab",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/221ab3db-8767-41e7-8428-81efbb576bab/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 36,
+      "extraction_timestamp": "2025-11-21T04:58:39.078Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T18:23:51",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "1",
+          "nama_kepala_keluarga": "ABAY WENDA / LERSI TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "1",
+          "alamat_tempat_tinggal": "PERANERI",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "4"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / ABAY WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999996 / LERSI TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / ELISER WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999995 / ARPINA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / ABAY WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "ABAY WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "24",
+              "bulan_lahir": "02 - Februari",
+              "tahun_lahir": "1996"
+            }
+          },
+          {
+            "art_info": "9999999999999996 / LERSI TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "LERSI TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "03 - 3 - Istri",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "20",
+              "bulan_lahir": "11 - November",
+              "tahun_lahir": "1996"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / ELISER WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "ELISER WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "08",
+              "bulan_lahir": "11 - November",
+              "tahun_lahir": "2018"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / ARPINA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "ARPINA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "17",
+              "bulan_lahir": "01 - Januari",
+              "tahun_lahir": "2022"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "e93f28a0-852d-43b1-9218-7b8b0cf69eee",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/e93f28a0-852d-43b1-9218-7b8b0cf69eee/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 37,
+      "extraction_timestamp": "2025-11-21T04:59:55.916Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T22:05:18",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "47",
+          "nama_kepala_keluarga": "SELFIA WENDA / TINUS WENDA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "47",
+          "alamat_tempat_tinggal": "PERANERI",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "2"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / SELFIA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999995 / TINUS WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / SELFIA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "SELFIA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "28",
+              "bulan_lahir": "07 - Juli",
+              "tahun_lahir": "1995"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / TINUS WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "TINUS WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "20",
+              "bulan_lahir": "11 - November",
+              "tahun_lahir": "2014"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "a2c9ff68-4479-4bf2-9173-998dec044d09",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/a2c9ff68-4479-4bf2-9173-998dec044d09/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 38,
+      "extraction_timestamp": "2025-11-21T05:00:56.167Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T21:10:40",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "22",
+          "nama_kepala_keluarga": "NESI KOMBA",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "22",
+          "alamat_tempat_tinggal": "PERANERI",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "1"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / NESI KOMBA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / NESI KOMBA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "NESI KOMBA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "21",
+              "bulan_lahir": "04 - April",
+              "tahun_lahir": "1996"
+            }
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "id": "cede1be3-9eeb-49b5-8e1a-0741aa4f0242",
+      "url": "https://fasih-sm.bps.go.id/survey-collection/survey-review/cede1be3-9eeb-49b5-8e1a-0741aa4f0242/2d5159a6-199a-45d6-814c-b9b084857fda/18ca548e-31e8-437c-88e1-6bd21ac5403a/a/1",
+      "record_number": 39,
+      "extraction_timestamp": "2025-11-21T05:01:48.017Z",
+      "status": "success",
+      "data": {
+        "form_info": {
+          "title": "SUPAS 2025 - P",
+          "description": "FASIH"
+        },
+        "user_info": {
+          "name": "N/A"
+        },
+        "page1_blok_i": {
+          "waktu_mulai_kunjungan_1": "2025-07-15T21:56:24",
+          "waktu_mulai_kunjungan_2": "",
+          "provinsi": "[97] PAPUA PEGUNUNGAN",
+          "kabupaten_kota": "[02] JAYAWIJAYA",
+          "kecamatan": "[190] PYRAMID",
+          "desa_kelurahan": "[004] PERABAGA",
+          "klasifikasi_desa": "2",
+          "sls": "DUSUN PERANERI",
+          "nks": "00508"
+        },
+        "page2_blok_v": {
+          "no_urut_keluarga_terbesar": "73",
+          "nomor_urut_keluarga": "41",
+          "nama_kepala_keluarga": "KANA WENDA / ASRI TABUNI",
+          "keberadaan_keluarga": "1 - 1 - Ditemukan",
+          "no_urut_bangunan_terbesar": "73",
+          "nomor_urut_bangunan": "41",
+          "alamat_tempat_tinggal": "PERANERI",
+          "nomor_kartu_keluarga": "9999999999999998",
+          "jumlah_anggota_keluarga": "4"
+        },
+        "art_list": {
+          "art_awal": [
+            {
+              "urut": 1,
+              "art_index": 1,
+              "info": "9999999999999996 / KANA WENDA / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(1) > div > button"
+            },
+            {
+              "urut": 2,
+              "art_index": 2,
+              "info": "9999999999999995 / ASRI TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(2) > div > button"
+            },
+            {
+              "urut": 3,
+              "art_index": 3,
+              "info": "9999999999999995 / KOROLUS TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(3) > div > button"
+            },
+            {
+              "urut": 4,
+              "art_index": 4,
+              "info": "9999999999999995 / KARO TABUNI / 1 – Ditemukan",
+              "selector": "#nested_ak > div > div:nth-child(4) > div > button"
+            }
+          ],
+          "art_tambahan": []
+        },
+        "art_details": [
+          {
+            "art_info": "9999999999999996 / KANA WENDA / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 1,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "1",
+              "nik": "9999999999999996",
+              "nama_anggota_keluarga": "KANA WENDA",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "01 - 1 - Kepala Keluarga",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "20",
+              "bulan_lahir": "06 - Juni",
+              "tahun_lahir": "1992"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / ASRI TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 2,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "2",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "ASRI TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "2 - 2 - Perempuan",
+              "tanggal_lahir": "28",
+              "bulan_lahir": "03 - Maret",
+              "tahun_lahir": "2017"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / KOROLUS TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 3,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "3",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "KOROLUS TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "24",
+              "bulan_lahir": "11 - November",
+              "tahun_lahir": "2019"
+            }
+          },
+          {
+            "art_info": "9999999999999995 / KARO TABUNI / 1 – Ditemukan",
+            "art_type": "awal",
+            "art_index": 4,
+            "detail_data": {
+              "nomor_urut_anggota_keluarga": "4",
+              "nik": "9999999999999995",
+              "nama_anggota_keluarga": "KARO TABUNI",
+              "keberadaan": "1 - 1 – Ditemukan",
+              "status_hubungan": "04 - 4 - Anak",
+              "jenis_kelamin": "1 - 1 - Laki-laki",
+              "tanggal_lahir": "06",
+              "bulan_lahir": "11 - November",
+              "tahun_lahir": "2021"
+            }
+          }
+        ]
+      },
+      "errors": []
+    }
+  ]
+}
